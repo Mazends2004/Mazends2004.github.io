@@ -3822,6 +3822,7 @@ input, select, textarea {
   text-align: center;
   color: white;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+  border: 5px solid red;
 }
 
 		#main > header h2 {
